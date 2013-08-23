@@ -10,7 +10,7 @@
  * @return int                  Ticket ID
 */
 
-require_once dirname(__FILE__) . '/../libraries/Zendesk-API/zendesk.php';
+require_once dirname(__FILE__) . '/../libraries/zendesk.php';
 
 function create_ticket($z_subject, $z_description, $z_recipient, $z_name, $z_requester)
 {
