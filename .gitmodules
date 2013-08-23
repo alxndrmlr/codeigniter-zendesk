@@ -1,6 +1,0 @@
-[submodule "0.0.1/libraries/Zendesk-API2"]
-	path = 0.0.1/libraries/Zendesk-API2
-	url = https://github.com/ludwigzzz/Zendesk-API.git
-[submodule "0.0.1/libraries/Zendesk-API"]
-	path = 0.0.1/libraries/Zendesk-API
-	url = https://github.com/ludwigzzz/Zendesk-API.git
