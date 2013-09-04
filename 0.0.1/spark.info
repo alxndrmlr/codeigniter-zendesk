@@ -1,2 +1,3 @@
 name: codeigniter-zendesk
 version: 0.0.1
+compatibility: 2.1.4
